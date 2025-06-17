@@ -1,3 +1,5 @@
+Laboratorio segundo parcial
+mateo enriquez laboratorio de construccion 20/20
 Guía simplificado
 1 Configuracion inicial de Git
 Baixando e instalando o Git
@@ -8,7 +10,7 @@ Configura nome de usuário
 git config --global user.name nome-sobrenome
 Configura email de usuário
 
-git config --global user.email email@email.com.br
+git config --global user.email mateoelopez20000@gmail.com
 2 Inicializando mmm repositório
 Inicializa o versionamento no respectivo diretório
 
@@ -52,5 +54,3 @@ git branch -D nome-branch
 Deletando uma branch remoto
 
 git push origin :nome-branch
-
-mateo enriquez laboratorio de construccion 20/20
